@@ -1,0 +1,211 @@
+[
+  {
+    "nombre": "Privada Fiori",
+    "precio_txt": "$1,272,000",
+    "precio_min": 1272000,
+    "zona": "Norte",
+    "tipo": "Casa",
+    "estatus": "Entrega inmediata",
+    "creditos": [
+      "Infonavit",
+      "Fovissste",
+      "Bancario"
+    ],
+    "ubicacion": "Carretera Colotlán km 8.5",
+    "link": "https://fiori.3dhomes.com.mx/",
+    "img": "fiori.jpg",
+    "lat": 20.85513063567841,
+    "lng": -103.44382990704854,
+    "r": 500,
+    "modelos": "Dalia · Violeta · Girasol"
+  },
+  {
+    "nombre": "Vitad",
+    "precio_txt": "$2,385,000",
+    "precio_min": 2385000,
+    "zona": "Sur",
+    "tipo": "Departamento",
+    "estatus": "Preventa",
+    "creditos": [
+      "Infonavit",
+      "Bancario"
+    ],
+    "ubicacion": "Cerca de Plaza Outlet",
+    "link": "https://vitad.3dhomes.com.mx/",
+    "img": "vitad.jpg",
+    "lat": 20.528637934369318,
+    "lng": -103.47099269947094,
+    "r": 1000,
+    "modelos": "Apolo · Ares · Atena"
+  },
+  {
+    "nombre": "Alporta",
+    "precio_txt": "$2,309,000",
+    "precio_min": 2309000,
+    "zona": "Sur",
+    "tipo": "Departamento",
+    "estatus": "Entrega inmediata",
+    "creditos": [
+      "Infonavit",
+      "Bancario"
+    ],
+    "ubicacion": "Centro Sur, Av. Jesús Michel",
+    "link": "https://alporta.3dhomes.com.mx/",
+    "img": "alporta.jpg",
+    "lat": 20.56585009368569,
+    "lng": -103.39184358831704,
+    "r": 1500,
+    "modelos": "Atria · Vela · Lira"
+  },
+  {
+    "nombre": "Zenith Norte",
+    "precio_txt": "$3,724,000",
+    "precio_min": 3724000,
+    "zona": "Norte",
+    "tipo": "Casa",
+    "estatus": "Entrega inmediata",
+    "creditos": [
+      "Bancario",
+      "Infonavit"
+    ],
+    "ubicacion": "Por Av. Valdepeñas",
+    "link": "https://zenith-norte.3dhomes.com.mx/",
+    "img": "zenith-norte.jpg",
+    "lat": 20.760672306868827,
+    "lng": -103.40135523203546,
+    "r": 1500,
+    "modelos": "Toledo · Samos · León · Toledo RF"
+  },
+  {
+    "nombre": "Creta",
+    "precio_txt": "$3,655,000",
+    "precio_min": 3655000,
+    "zona": "Norte (Capital Norte)",
+    "tipo": "Casa",
+    "estatus": "Entrega inmediata",
+    "creditos": [
+      "Bancario",
+      "Infonavit"
+    ],
+    "ubicacion": "Capital Norte",
+    "link": "https://creta.3dhomes.com.mx/",
+    "img": "creta.jpg",
+    "lat": 20.786957705846113,
+    "lng": -103.415476167784,
+    "r": 1000,
+    "modelos": "Samos"
+  },
+  {
+    "nombre": "Tossa",
+    "precio_txt": "$3,900,000",
+    "precio_min": 3900000,
+    "zona": "Sur (Centro Sur)",
+    "tipo": "Casa",
+    "estatus": "Preventa",
+    "creditos": [
+      "Bancario"
+    ],
+    "ubicacion": "Centro Sur, Av. Jesús Michel",
+    "link": "https://tossa.3dhomes.com.mx/",
+    "img": "tossa.jpg",
+    "lat": 20.577262595694847,
+    "lng": -103.42875268542423,
+    "r": 1500,
+    "modelos": "Goya · Picasso · Dalí · Miró · Dalí RG · Miró RG"
+  },
+  {
+    "nombre": "Vicenza",
+    "precio_txt": "$3,200,000",
+    "precio_min": 3200000,
+    "zona": "Sur (Santa Anita)",
+    "tipo": "Casa",
+    "estatus": "Preventa",
+    "creditos": [
+      "Bancario"
+    ],
+    "ubicacion": "Cerca de Galerías Santa Anita",
+    "link": "https://vicenza.3dhomes.com.mx/",
+    "img": "vicenza.jpg",
+    "lat": 20.576687379299546,
+    "lng": -103.49279375479182,
+    "r": 1500,
+    "modelos": "Padua · Capri"
+  },
+  {
+    "nombre": "Lavantia",
+    "precio_txt": "$2,790,000",
+    "precio_min": 2790000,
+    "zona": "Sur (Adolf Horn)",
+    "tipo": "Departamento",
+    "estatus": "Entrega inmediata",
+    "creditos": [
+      "Infonavit",
+      "Bancario"
+    ],
+    "ubicacion": "Dentro del Periférico, Adolf Horn",
+    "link": "https://lavantia.3dhomes.com.mx/",
+    "img": "lavantia.jpg",
+    "lat": 20.585819756098118,
+    "lng": -103.36449417953972,
+    "r": 1000,
+    "modelos": "Luna"
+  },
+  {
+    "nombre": "Mirador del Bosque",
+    "precio_txt": "$740,000",
+    "precio_min": 740000,
+    "zona": "Norte (Tesistán)",
+    "tipo": "Casa",
+    "estatus": "Entrega inmediata",
+    "creditos": [
+      "Infonavit",
+      "Fovissste",
+      "Bancario"
+    ],
+    "ubicacion": "Carretera Colotlán km 8.5",
+    "link": "https://mirador.3dhomes.com.mx/",
+    "img": "mirador.jpg",
+    "lat": 20.856987846653993,
+    "lng": -103.44609164389949,
+    "r": 1000,
+    "modelos": "Nardo · Oliva"
+  },
+  {
+    "nombre": "Vistas del Pedregal",
+    "precio_txt": "$1,080,000",
+    "precio_min": 1080000,
+    "zona": "Este (Tonalá)",
+    "tipo": "Casa",
+    "estatus": "Entrega inmediata",
+    "creditos": [
+      "Infonavit",
+      "Fovissste",
+      "Bancario"
+    ],
+    "ubicacion": "Santa Martha, Tonalá",
+    "link": "https://vistas.3dhomes.com.mx/",
+    "img": "vistas.jpg",
+    "lat": 20.60739235653331,
+    "lng": -103.16645128376169,
+    "r": 1000,
+    "modelos": "Unifamiliar 2–3 rec"
+  },
+  {
+    "nombre": "Solum",
+    "precio_txt": "Consultar",
+    "precio_min": 0,
+    "zona": "Sur (Centro Sur)",
+    "tipo": "Departamento",
+    "estatus": "Preventa",
+    "creditos": [
+      "Bancario"
+    ],
+    "ubicacion": "Centro Sur, Av. Jesús Michel",
+    "link": "https://solum.3dhomes.com.mx/",
+    "img": "solum.jpg",
+    "lat": 20.537578254725435,
+    "lng": -103.40399763462109,
+    "r": 1000,
+    "modelos": "2–3 recámaras · Amenidades"
+  }
+]
